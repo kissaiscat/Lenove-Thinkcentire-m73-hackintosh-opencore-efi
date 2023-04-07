@@ -1,0 +1,1 @@
+# Lenove-Thinkcentire-m73-hackintosh-opencore-efi
